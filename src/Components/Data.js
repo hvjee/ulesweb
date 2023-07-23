@@ -11,14 +11,14 @@ const MenuItems = [
 		itemId: "pizza01",
 		name: "Salad",
 		imgSrc:
-			"https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fpizzaslice.png?alt=media&token=c91c0c7e-ffa9-41be-ba84-c3b45c79d483",
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%86%D0%B5%D0%B7%D0%B0%D1%80%D1%8C.png?alt=media&token=55c90e0d-e2f0-4775-b14b-79f593383aa3",
 	},
 	{
 		id: 3,
 		itemId: "hotdog01",
 		name: "Yummy",
 		imgSrc:
-			"https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fhdog1.png?alt=media&token=658e67d8-9284-4ba4-93ad-778dad99ce9c",
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%B2%D1%83%D0%BF%D0%B8%D0%BF%D0%B0%D0%B9.png?alt=media&token=eafad606-a4ba-4040-921e-11bcc6433c42",
 	},
 	{
 		id: 4,
@@ -36,8 +36,8 @@ const Items = [
 		imgSrc:
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA.png?alt=media&token=ed03aab6-7e4e-4cef-b37e-8699a56d47e8",
 		name: "Кусковой",
-		ratings: 5,
-		price: "7.5",
+		ratings: 500,
+		price: "500",
 	},
 	{
 		id: 2,
@@ -45,8 +45,8 @@ const Items = [
 		imgSrc:
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA.png?alt=media&token=ed03aab6-7e4e-4cef-b37e-8699a56d47e8",
 		name: "Фарш",
-		ratings: 5,
-		price: "12",
+		ratings: 500,
+		price: "500",
 	},
 	{
 		id: 3,
@@ -54,8 +54,8 @@ const Items = [
 		imgSrc:
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA.png?alt=media&token=ed03aab6-7e4e-4cef-b37e-8699a56d47e8",
 		name: "Тауық",
-		ratings: 5,
-		price: "12",
+		ratings: 750,
+		price: "750",
 	},
 	{
 		id: 4,
@@ -63,8 +63,8 @@ const Items = [
 		imgSrc:
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA.png?alt=media&token=ed03aab6-7e4e-4cef-b37e-8699a56d47e8",
 		name: "Қабырға",
-		ratings: 5,
-		price: "12",
+		ratings: 950,
+		price: "950",
 	},
 	{
 		id: 5,
@@ -72,8 +72,8 @@ const Items = [
 		imgSrc:
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA.png?alt=media&token=ed03aab6-7e4e-4cef-b37e-8699a56d47e8",
 		name: "Бауыр",
-		ratings: 5,
-		price: "12",
+		ratings: 500,
+		price: "500",
 	},
 	{
 		id: 6,
@@ -81,8 +81,8 @@ const Items = [
 		imgSrc:
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA.png?alt=media&token=ed03aab6-7e4e-4cef-b37e-8699a56d47e8",
 		name: "Балық",
-		ratings: 5,
-		price: "12",
+		ratings: 500,
+		price: "500",
 	},
 	{
 		id: 7,
@@ -90,8 +90,8 @@ const Items = [
 		imgSrc:
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA.png?alt=media&token=ed03aab6-7e4e-4cef-b37e-8699a56d47e8",
 		name: "Крылышки",
-		ratings: 5,
-		price: "12",
+		ratings: 850,
+		price: "850",
 	},
 	{
 		id: 8,
@@ -100,7 +100,7 @@ const Items = [
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%B0%D1%87%D0%B8%D1%87%D1%83%D0%BA.png?alt=media&token=e1faa9ec-6d08-46b3-bcc3-1d124a27396b",
 		name: "Ачи-Чук",
 		ratings: 5,
-		price: "12",
+		price: "700",
 	},
 	{
 		id: 9,
@@ -109,7 +109,7 @@ const Items = [
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%84%D1%80%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B9.png?alt=media&token=22263c0d-a9be-4d08-8eaf-b85cad452614",
 		name: "Фруктовый",
 		ratings: 5,
-		price: "12",
+		price: "1300",
 	},
 	{
 		id: 10,
@@ -118,7 +118,7 @@ const Items = [
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%81%D0%B2%D0%B5%D0%B6%D0%B8%D0%B9.png?alt=media&token=5453510b-79cc-4877-bc43-e7ff0aad259e",
 		name: "Свежый салат",
 		ratings: 4,
-		price: "12",
+		price: "1000",
 	},
 	{
 		id: 11,
@@ -127,7 +127,7 @@ const Items = [
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9.png?alt=media&token=0cacf0dd-c589-4988-91fe-d0d1aa0e1bdc",
 		name: "Греческий",
 		ratings: 4,
-		price: "12",
+		price: "1300",
 	},
 	{
 		id: 12,
@@ -136,7 +136,7 @@ const Items = [
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9.png?alt=media&token=84d98b26-c62b-4c92-87f9-69a668fef25d",
 		name: "Мужской каприз",
 		ratings: 4,
-		price: "12",
+		price: "1300",
 	},
 	{
 		id: 47,
@@ -145,7 +145,7 @@ const Items = [
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%86%D0%B5%D0%B7%D0%B0%D1%80%D1%8C.png?alt=media&token=55c90e0d-e2f0-4775-b14b-79f593383aa3",
 		name: "Цезарь",
 		ratings: 5,
-		price: "12",
+		price: "1300",
 	},
 	{
 		id: 48,
@@ -154,61 +154,61 @@ const Items = [
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%BE%D1%81%D1%82%D1%80%D1%8B%D0%B9.png?alt=media&token=c34b27b7-6cc3-45b6-aed7-707d60eba42b",
 		name: "Острый Пикантный",
 		ratings: 5,
-		price: "12",
+		price: "1500",
 	},
 	{
 		id: 13,
 		itemId: "hotdog01",
 		imgSrc:
-			"https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fhdog1.png?alt=media&token=658e67d8-9284-4ba4-93ad-778dad99ce9c",
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%B2%D1%83%D0%BF%D0%B8%D0%BF%D0%B0%D0%B9.png?alt=media&token=eafad606-a4ba-4040-921e-11bcc6433c42",
 		name: "Вупи-Пай",
 		ratings: 4,
-		price: "12",
+		price: "700",
 	},
 	{
 		id: 14,
 		itemId: "hotdog01",
 		imgSrc:
-			"https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fhdog2.png?alt=media&token=20c79a23-546f-48ef-a0fb-d6801e22273c",
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9.png?alt=media&token=183a0546-bd8a-4683-b73e-d36610cfbb22",
 		name: "Красный бархат",
 		ratings: 4,
-		price: "12",
+		price: "700",
 	},
 	{
 		id: 15,
 		itemId: "hotdog01",
 		imgSrc:
-			"https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fhdog3.png?alt=media&token=f0f0024f-0c1f-48ff-b589-b7f484ab5c96",
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%81%D0%BD%D0%B8%D0%BA%D0%B5%D1%80%D1%81.png?alt=media&token=c14a1fcd-9074-47f7-b6c1-4cfef47a2e4e",
 		name: "Сникерс",
 		ratings: 4,
-		price: "12",
+		price: "700",
 	},
 	{
 		id: 16,
 		itemId: "hotdog01",
 		imgSrc:
-			"https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fhdog4.png?alt=media&token=0c0e6531-db79-42b8-94f9-78a6d618f20c",
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%82%D1%80%D0%B0%D0%B9%D1%84%D0%BB.png?alt=media&token=8ca8b031-13d0-41f2-a0c2-6c05d916999c",
 		name: "Трайфл",
 		ratings: 4,
-		price: "12",
+		price: "700",
 	},
 	{
 		id: 17,
 		itemId: "hotdog01",
 		imgSrc:
-			"https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fhdog5.png?alt=media&token=95f8330f-dc35-4029-b125-d9cf01e3e345",
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%BC%D0%B5%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9.png?alt=media&token=5f14d8dd-b2c1-47e3-88e4-b7bb17320498",
 		name: "Медовый",
 		ratings: 4,
-		price: "12",
+		price: "700",
 	},
 	{
 		id: 18,
 		itemId: "hotdog01",
 		imgSrc:
-			"https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fhdog6.png?alt=media&token=d371d7dd-c23e-465a-87ec-605c7ed3bc02",
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F.png?alt=media&token=da947112-21f5-403b-93ff-32c1f9dfe9b1",
 		name: "Молочная девочка",
 		ratings: 3,
-		price: "12",
+		price: "700",
 	},
 	{
 		id: 19,
