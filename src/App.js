@@ -61,23 +61,7 @@ function App() {
 			<Header />
 
 			{/* Left menu */}
-			<div className="leftMenu">
-				<ul id="menu">
-					{/* prettier-ignore */}
-					<MenuContainer link={'#'} icon={<HomeRounded />} isHome />
-					{/* prettier-ignore */}
-					<MenuContainer link={'#'} icon={<Chat />} />
-					{/* prettier-ignore */}
-					<MenuContainer link={'#'} icon={<AccountBalanceWalletRounded />} />
-					{/* prettier-ignore */}
-					<MenuContainer link={'#'} icon={<Favorite />} />
-					{/* prettier-ignore */}
-					<MenuContainer link={'#'} icon={<SummarizeRounded />} />
-					{/* prettier-ignore */}
-					<MenuContainer link={'#'} icon={<Settings />} />
-					<div className="indicator"></div>
-				</ul>
-			</div>
+			
 			<main>
 				<div className="mainContainer">
 					{/* Banner  */}
