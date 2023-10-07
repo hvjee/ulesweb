@@ -26,7 +26,7 @@ function Header() {
 
 			<div className="inputBox">
 				<SearchRounded className="searchIcon" />
-				<input type="text" placeholder="Search" />
+				<input type="text" placeholder="Поиск" />
 			</div>
 
 			<div className="shoppingCart">
