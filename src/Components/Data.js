@@ -39,7 +39,7 @@ const MenuItems = [
 		itemId: "tea02",
 		name: "Чай",
 		imgSrc:
-			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%9A%D0%9B%D0%A3%D0%91%D0%9D%D0%98%D0%9A%D0%90.png?alt=media&token=e3bc47c4-2e31-4c17-97b2-d8c941a434cb&_gl=1*1stkf37*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjY4NjcxNy4xLjEuMTY5NjY4NjkxOS42MC4wLjA.",
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BC.png?alt=media&token=316a5589-2ae0-4a64-b00f-1f3819dbd91b&_gl=1*1euqcq1*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjcwNDA5MS4yLjEuMTY5NjcwNDIxNy42MC4wLjA.",
 	},
 ];
 
@@ -336,7 +336,7 @@ const Items = [
 		id: 43,
 		itemId: "tea02",
 		imgSrc:
-			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%9A%D0%9B%D0%A3%D0%91%D0%9D%D0%98%D0%9A%D0%90.png?alt=media&token=e3bc47c4-2e31-4c17-97b2-d8c941a434cb&_gl=1*1stkf37*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjY4NjcxNy4xLjEuMTY5NjY4NjkxOS42MC4wLjA.",
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BC.png?alt=media&token=316a5589-2ae0-4a64-b00f-1f3819dbd91b&_gl=1*1euqcq1*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjcwNDA5MS4yLjEuMTY5NjcwNDIxNy42MC4wLjA.",
 		name: "С молоком",
 		ratings: 4,
 		price: "500",
