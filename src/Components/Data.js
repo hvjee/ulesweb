@@ -34,6 +34,13 @@ const MenuItems = [
 		imgSrc:
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%9A%D0%9B%D0%A3%D0%91%D0%9D%D0%98%D0%9A%D0%90.png?alt=media&token=e3bc47c4-2e31-4c17-97b2-d8c941a434cb&_gl=1*1stkf37*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjY4NjcxNy4xLjEuMTY5NjY4NjkxOS42MC4wLjA.",
 	},
+	{
+		id: 6,
+		itemId: "tea02",
+		name: "Чай",
+		imgSrc:
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%9A%D0%9B%D0%A3%D0%91%D0%9D%D0%98%D0%9A%D0%90.png?alt=media&token=e3bc47c4-2e31-4c17-97b2-d8c941a434cb&_gl=1*1stkf37*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjY4NjcxNy4xLjEuMTY5NjY4NjkxOS42MC4wLjA.",
+	},
 ];
 
 const Items = [
@@ -297,6 +304,51 @@ const Items = [
 		name: "Клубничный",
 		ratings: 4,
 		price: "1300",
+	},
+		{
+		id: 40,
+		itemId: "tea02",
+		imgSrc:
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%82%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.png?alt=media&token=7715de13-5cdf-48ec-a1cb-f317b7691311&_gl=1*1pi7l6e*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjcwNDA5MS4yLjEuMTY5NjcwNDI0NS4zMi4wLjA.",
+		name: "Ташкенский",
+		ratings: 4,
+		price: "450",
+	},
+	{
+		id: 41,
+		itemId: "tea02",
+		imgSrc:
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9.png?alt=media&token=ec69d0e5-49e2-4024-9021-3e87722f437d&_gl=1*17k82wq*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjcwNDA5MS4yLjEuMTY5NjcwNDI2Ny4xMC4wLjA.",
+		name: "Черный чай",
+		ratings: 4,
+		price: "350",
+	},
+	{
+		id: 42,
+		itemId: "tea02",
+		imgSrc:
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9.png?alt=media&token=8ae3209d-6c52-4562-9c37-4d9ef9944209&_gl=1*yal2bf*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjcwNDA5MS4yLjEuMTY5NjcwNDMxMC4zNC4wLjA.",
+		name: "Зеленый чай",
+		ratings: 4,
+		price: "350",
+	},
+	{
+		id: 43,
+		itemId: "tea02",
+		imgSrc:
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%9A%D0%9B%D0%A3%D0%91%D0%9D%D0%98%D0%9A%D0%90.png?alt=media&token=e3bc47c4-2e31-4c17-97b2-d8c941a434cb&_gl=1*1stkf37*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjY4NjcxNy4xLjEuMTY5NjY4NjkxOS42MC4wLjA.",
+		name: "С молоком",
+		ratings: 4,
+		price: "500",
+	},
+	{
+		id: 44,
+		itemId: "tea02",
+		imgSrc:
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%BA%D0%BE%D1%84%D0%B5.png?alt=media&token=3eb349b9-6ad7-4994-a12d-3c7cdb4af77a&_gl=1*1gjr886*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjcwNDA5MS4yLjEuMTY5NjcwNDI4NC42MC4wLjA.",
+		name: "Кофе 3/1",
+		ratings: 4,
+		price: "200",
 	},
 
 ];
