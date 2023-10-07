@@ -15,7 +15,7 @@ function DebitCard() {
 				className="cardChip"
 			/>
 
-			<div className="card_number">7777 7777 7777 7777</div>
+			<div className="card_number">4400 4301 8786 9307</div>
 			<div className="card_name"></div>
 			<div className="card_from">10/21</div>
 			<div className="card_to">10/25</div>
