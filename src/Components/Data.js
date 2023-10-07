@@ -258,7 +258,7 @@ const Items = [
 		itemId: "drink01",
 		imgSrc:
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%A4%D0%AE%D0%A1.png?alt=media&token=2efb8733-fa15-4219-aaa3-048887e0b4c8&_gl=1*1nvn3hb*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjY4NjcxNy4xLjEuMTY5NjY4NzI3My4zMC4wLjA.",
-		name: "Fuce tea",
+		name: "Fuse tea",
 		ratings: 4,
 		price: "550",
 	},
