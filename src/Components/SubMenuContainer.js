@@ -4,9 +4,9 @@ import React from "react";
 function SubMenuContainer() {
   return (
     <div className="subMenuContianer">
-      <h3>Menu Category</h3>
+      <h3>Меню</h3>
       <div className="viewAll">
-        <p>View All</p>
+        <p>Категории</p>
         <i>
           <ChevronRightRounded />
         </i>
