@@ -266,7 +266,7 @@ const Items = [
 		id: 36,
 		itemId: "drink01",
 		imgSrc:
-			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%81%D0%BF%D1%80%D0%B0%D0%B9%D1%82.png?alt=media&token=7ee292f4-ca11-4621-96f2-cd0ea233af43",
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8.png?alt=media&token=2b413ef4-df6b-4b92-b755-126c8f62f1e1&_gl=1*1qguoxc*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjY4NjcxNy4xLjEuMTY5NjY4ODA1MS4xNS4wLjA.",
 		name: "Maxi Чай",
 		ratings: 4,
 		price: "550",
