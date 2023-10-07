@@ -2,30 +2,37 @@ const MenuItems = [
 	{
 		id: 1,
 		itemId: "buger01",
-		name: "Kebab",
+		name: "Шашлыки",
 		imgSrc:
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA.png?alt=media&token=ed03aab6-7e4e-4cef-b37e-8699a56d47e8",
 	},
 	{
 		id: 2,
 		itemId: "pizza01",
-		name: "Salad",
+		name: "Салаты",
 		imgSrc:
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%86%D0%B5%D0%B7%D0%B0%D1%80%D1%8C.png?alt=media&token=55c90e0d-e2f0-4775-b14b-79f593383aa3",
 	},
 	{
 		id: 3,
 		itemId: "hotdog01",
-		name: "Yummy",
+		name: "Десерты",
 		imgSrc:
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%B2%D1%83%D0%BF%D0%B8%D0%BF%D0%B0%D0%B9.png?alt=media&token=eafad606-a4ba-4040-921e-11bcc6433c42",
 	},
 	{
 		id: 4,
 		itemId: "drink01",
-		name: "Drink",
+		name: "Напитки",
 		imgSrc:
 			"https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdrink1.png?alt=media&token=e9cc5e4e-2194-4766-9d5a-5e01657927b7",
+	},
+	{
+		id: 5,
+		itemId: "lim02",
+		name: "Лимонады",
+		imgSrc:
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%9A%D0%9B%D0%A3%D0%91%D0%9D%D0%98%D0%9A%D0%90.png?alt=media&token=e3bc47c4-2e31-4c17-97b2-d8c941a434cb&_gl=1*1stkf37*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjY4NjcxNy4xLjEuMTY5NjY4NjkxOS42MC4wLjA.",
 	},
 ];
 
@@ -37,7 +44,7 @@ const Items = [
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%88%D0%B0%D1%88%D0%BB%D1%8B%D0%BA.png?alt=media&token=ed03aab6-7e4e-4cef-b37e-8699a56d47e8",
 		name: "Кусковой",
 		ratings: 500,
-		price: "500",
+		price: "550",
 	},
 	{
 		id: 2,
@@ -46,7 +53,7 @@ const Items = [
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%84%D0%B0%D1%80%D1%88.png?alt=media&token=547eeeca-aba6-4b03-9287-600e17ed4320",
 		name: "Фарш",
 		ratings: 500,
-		price: "500",
+		price: "550",
 	},
 	{
 		id: 3,
@@ -217,7 +224,7 @@ const Items = [
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%BA%D0%BE%D0%BB%D0%B0.png?alt=media&token=fed80c82-18fe-4bcd-a861-bc65980db5d7",
 		name: "Coca Cola",
 		ratings: 4,
-		price: "450",
+		price: "550",
 	},
 	{
 		id: 32,
@@ -226,7 +233,7 @@ const Items = [
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%BF%D0%B5%D0%BF%D1%81%D0%B8.png?alt=media&token=f7d5000f-a3ff-4082-83ab-fa1dc37e4c0a",
 		name: "Pepsi ",
 		ratings: 4,
-		price: "450",
+		price: "550",
 	},
 	{
 		id: 33,
@@ -235,7 +242,7 @@ const Items = [
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%84%D0%B0%D0%BD%D1%82%D0%B0.png?alt=media&token=a15e9cc2-c9d7-4964-b40a-efade3b0114e",
 		name: "Fanta",
 		ratings: 4,
-		price: "450",
+		price: "550",
 	},
 	{
 		id: 34,
@@ -244,9 +251,54 @@ const Items = [
 			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%81%D0%BF%D1%80%D0%B0%D0%B9%D1%82.png?alt=media&token=7ee292f4-ca11-4621-96f2-cd0ea233af43",
 		name: "Sprite",
 		ratings: 4,
-		price: "450",
+		price: "550",
 	},
+	{
+		id: 35,
+		itemId: "drink01",
+		imgSrc:
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%A4%D0%AE%D0%A1.png?alt=media&token=2efb8733-fa15-4219-aaa3-048887e0b4c8&_gl=1*1nvn3hb*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjY4NjcxNy4xLjEuMTY5NjY4NzI3My4zMC4wLjA.",
+		name: "Fuce tea",
+		ratings: 4,
+		price: "550",
+	},
+	{
+		id: 36,
+		itemId: "drink01",
+		imgSrc:
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D1%81%D0%BF%D1%80%D0%B0%D0%B9%D1%82.png?alt=media&token=7ee292f4-ca11-4621-96f2-cd0ea233af43",
+		name: "Maxi Чай",
+		ratings: 4,
+		price: "550",
+	},
+	{
+		id: 37,
+		itemId: "drink01",
+		imgSrc:
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%BF%D0%B8%D0%BA%D0%BE.png?alt=media&token=da8a3635-2c92-48cd-9193-c4a83af2fad3&_gl=1*br0fla*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjY4NjcxNy4xLjEuMTY5NjY4NzMyOS40My4wLjA.",
+		name: "Пико",
+		ratings: 4,
+		price: "600",
+	},
+	{
+		id: 38,
+		itemId: "lim02",
+		imgSrc:
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%9C%D0%9E%D0%A5%D0%98%D0%A2%D0%9E.png?alt=media&token=387a97e3-a9ff-45e3-9b32-a47387c7c3aa&_gl=1*ttbmfo*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjY4NjcxNy4xLjEuMTY5NjY4NzI0My42MC4wLjA.",
+		name: "Мохито",
+		ratings: 4,
+		price: "1300",
+	},
+	{
+		id: 39,
+		itemId: "lim02",
+		imgSrc:
+			"https://firebasestorage.googleapis.com/v0/b/ules-e5ea3.appspot.com/o/%D0%9A%D0%9B%D0%A3%D0%91%D0%9D%D0%98%D0%9A%D0%90.png?alt=media&token=e3bc47c4-2e31-4c17-97b2-d8c941a434cb&_gl=1*1stkf37*_ga*NzAwMzM4NDUzLjE2OTY2ODY3MDI.*_ga_CW55HF8NVT*MTY5NjY4NjcxNy4xLjEuMTY5NjY4NjkxOS42MC4wLjA.",
+		name: "Клубничный",
+		ratings: 4,
+		price: "1300",
+	},
+
 ];
 
 export { MenuItems, Items };
-
