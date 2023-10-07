@@ -142,12 +142,12 @@ function App() {
 								</div>
 							</div>
 							<div className="totalSection">
-								<h3>Total</h3>
+								<h3>Сумма</h3>
 								<p>
-									<span>$ </span> {total}
+									<span>₸ </span> {total}
 								</p>
 							</div>
-							<button className="checkOut">Check Out</button>
+							<button className="checkOut">Отправить</button>
 						</div>
 					)}
 				</div>
